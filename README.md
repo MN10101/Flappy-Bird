@@ -32,4 +32,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
  Flappy-Bird
 
- ![1](https://github.com/MN10101/Flappy-Bird/assets/78208459/438926c4-0c79-46ab-bf35-491d0acd2418)
+![1](https://github.com/MN10101/Flappy-Bird/assets/78208459/cae624b9-b685-406a-9a2c-3e505caa9081)
+
