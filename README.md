@@ -23,7 +23,7 @@ Flappy Bird is a simple game where you control a bird and navigate it through ob
 
 - Developer: Mahmoud Najmeh
 - Release Date: 17/04/2024
-- Version: 1.0
+- Version: 2.0
 
 ## License
 
