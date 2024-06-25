@@ -25,10 +25,6 @@ Flappy Bird is a simple game where you control a bird and navigate it through ob
 - Release Date: 17/04/2024
 - Version: 2.0
 
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
 
  Flappy-Bird
 
